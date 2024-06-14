@@ -1,8 +1,5 @@
 
 
-![User Management](C:\Users\F5\Desktop\pi works\user_management.png)
-
-
 # User Management Screen Specification
 
 ## Overview
